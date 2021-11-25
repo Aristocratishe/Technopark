@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstatic_version.a  CMakeFiles/static_version.dir/project/src/kMeansS.c.o
+/usr/bin/ranlib libstatic_version.a

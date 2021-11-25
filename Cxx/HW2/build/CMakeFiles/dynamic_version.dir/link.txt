@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -O0 -lgcov --coverage -shared -Wl,-soname,libdynamic_version.so -o libdynamic_version.so CMakeFiles/dynamic_version.dir/project/src/kMeansD.c.o 

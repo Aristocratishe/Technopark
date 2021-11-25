@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/Technopark/Cxx/Project/async.http.server.cpp
+algorithm
+-
+boost/asio/strand.hpp
+-
+boost/beast/core.hpp
+-
+boost/beast/websocket.hpp
+-
+cstdlib
+-
+functional
+-
+iostream
+-
+memory
+-
+string
+-
+thread
+-
+vector
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtests.a CMakeFiles/tests.dir/test/dynamic_test.cpp.o CMakeFiles/tests.dir/test/static_test.cpp.o
+/usr/bin/ranlib libtests.a

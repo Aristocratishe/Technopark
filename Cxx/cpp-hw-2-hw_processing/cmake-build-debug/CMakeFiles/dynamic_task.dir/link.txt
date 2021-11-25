@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -O0 -Wall -Wno-unused -Werror -Wpedantic -fprofile-arcs -ftest-coverage -g -shared -Wl,-soname,libdynamic_task.so -o libdynamic_task.so CMakeFiles/dynamic_task.dir/project/dynamic_task/src/task.c.o  -lm -lpthread 

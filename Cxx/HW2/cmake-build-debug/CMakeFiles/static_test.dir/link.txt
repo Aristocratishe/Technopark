@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O0 -lgcov --coverage CMakeFiles/static_test.dir/test/tests.cpp.o -o static_test  /usr/local/lib/libgtest.a libstatic_version.a -lm -lpthread -lpthread 

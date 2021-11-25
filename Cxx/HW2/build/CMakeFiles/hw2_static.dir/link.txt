@@ -1,0 +1,1 @@
+/usr/bin/cc   -O0 -lgcov --coverage CMakeFiles/hw2_static.dir/project/src/main.c.o  -o hw2_static  libstatic_version.a -lm 

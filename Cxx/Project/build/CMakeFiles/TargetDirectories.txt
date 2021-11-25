@@ -1,0 +1,4 @@
+/home/andrew/Technopark/Cxx/Project/build/CMakeFiles/rebuild_cache.dir
+/home/andrew/Technopark/Cxx/Project/build/CMakeFiles/edit_cache.dir
+/home/andrew/Technopark/Cxx/Project/build/CMakeFiles/async.http.server.dir
+/home/andrew/Technopark/Cxx/Project/build/CMakeFiles/async.http.client.dir

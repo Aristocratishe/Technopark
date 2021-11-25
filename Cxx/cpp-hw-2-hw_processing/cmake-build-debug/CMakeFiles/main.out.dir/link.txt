@@ -1,0 +1,1 @@
+/usr/bin/cc -g -O0 -Wall -Wno-unused -Werror -Wpedantic -fprofile-arcs -ftest-coverage -g -fprofile-arcs -ftest-coverage CMakeFiles/main.out.dir/project/cmd/src/main.c.o -o main.out  -Wl,-rpath,/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug libmenu.a libdynamic_task.so -lm -lpthread 

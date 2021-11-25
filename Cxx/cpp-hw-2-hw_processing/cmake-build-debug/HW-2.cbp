@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HW-2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\GTest\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test.out">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/test.out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/dynamic_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 test.out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test.out/fast">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/test.out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/dynamic_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 test.out/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="static_task">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/libstatic_task.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/static_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 static_task"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="static_task/fast">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/libstatic_task.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/static_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 static_task/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="menu">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/libmenu.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/menu/include"/>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/dynamic_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 menu"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="menu/fast">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/libmenu.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/menu/include"/>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/dynamic_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 menu/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_task">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/libdynamic_task.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/dynamic_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 dynamic_task"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_task/fast">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/libdynamic_task.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/dynamic_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 dynamic_task/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.out">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/main.out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/menu/include"/>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/dynamic_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.out/fast">
+				<Option output="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/main.out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/menu/include"/>
+					<Add directory="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/dynamic_task/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.out/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/cmd/src/main.c">
+			<Option target="main.out"/>
+		</Unit>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/dynamic_task/src/task.c">
+			<Option target="dynamic_task"/>
+		</Unit>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/menu/src/menu.c">
+			<Option target="menu"/>
+		</Unit>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/project/static_task/src/task.c">
+			<Option target="static_task"/>
+		</Unit>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/test/main.cpp">
+			<Option target="test.out"/>
+		</Unit>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/../../../../../usr/local/lib/cmake/GTest/GTestConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\GTest\"/>
+		</Unit>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/../../../../../usr/local/lib/cmake/GTest/GTestConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\GTest\"/>
+		</Unit>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/../../../../../usr/local/lib/cmake/GTest/GTestTargets-noconfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\GTest\"/>
+		</Unit>
+		<Unit filename="/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/../../../../../usr/local/lib/cmake/GTest/GTestTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\GTest\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

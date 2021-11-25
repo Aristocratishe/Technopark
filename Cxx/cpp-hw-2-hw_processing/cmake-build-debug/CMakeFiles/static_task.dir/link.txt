@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstatic_task.a CMakeFiles/static_task.dir/project/static_task/src/task.c.o
+/usr/bin/ranlib libstatic_task.a

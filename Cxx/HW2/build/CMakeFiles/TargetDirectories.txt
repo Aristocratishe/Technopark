@@ -1,0 +1,9 @@
+/home/andrew/Technopark/Cxx/HW2/build/CMakeFiles/dynamic_test.dir
+/home/andrew/Technopark/Cxx/HW2/build/CMakeFiles/static_test.dir
+/home/andrew/Technopark/Cxx/HW2/build/CMakeFiles/hw2_dynamic.dir
+/home/andrew/Technopark/Cxx/HW2/build/CMakeFiles/hw2_static.dir
+/home/andrew/Technopark/Cxx/HW2/build/CMakeFiles/edit_cache.dir
+/home/andrew/Technopark/Cxx/HW2/build/CMakeFiles/test.dir
+/home/andrew/Technopark/Cxx/HW2/build/CMakeFiles/dynamic_version.dir
+/home/andrew/Technopark/Cxx/HW2/build/CMakeFiles/rebuild_cache.dir
+/home/andrew/Technopark/Cxx/HW2/build/CMakeFiles/static_version.dir

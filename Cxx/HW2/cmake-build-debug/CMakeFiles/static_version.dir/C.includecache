@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../project/headers/kMeans.h
+stddef.h
+-
+
+/home/andrew/Technopark/Cxx/HW2/project/src/kMeansS.c
+kMeans.h
+/home/andrew/Technopark/Cxx/HW2/project/src/kMeans.h
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+stdbool.h
+-
+

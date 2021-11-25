@@ -1,0 +1,5 @@
+/snap/clion/169/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/andrew/Technopark/Cxx/Project
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: system thread 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/andrew/Technopark/Cxx/Project/cmake-build-debug

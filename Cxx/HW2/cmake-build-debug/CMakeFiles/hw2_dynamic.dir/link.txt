@@ -1,0 +1,1 @@
+/usr/bin/cc -g -O0 -lgcov --coverage CMakeFiles/hw2_dynamic.dir/project/src/main.c.o -o hw2_dynamic  -Wl,-rpath,/home/andrew/Technopark/Cxx/HW2/cmake-build-debug libdynamic_version.so -lm -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -lgcov --coverage CMakeFiles/dynamic_test.dir/test/tests.cpp.o  -o dynamic_test  -Wl,-rpath,/home/andrew/Technopark/Cxx/HW2/build /usr/local/lib/libgtest.a libdynamic_version.so -lm -lpthread 

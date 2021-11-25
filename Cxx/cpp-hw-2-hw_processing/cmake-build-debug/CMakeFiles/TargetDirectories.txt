@@ -1,0 +1,7 @@
+/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/CMakeFiles/test.out.dir
+/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/CMakeFiles/static_task.dir
+/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/CMakeFiles/menu.dir
+/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/CMakeFiles/dynamic_task.dir
+/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug/CMakeFiles/main.out.dir

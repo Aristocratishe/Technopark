@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O0 -Wall -Wno-unused -Werror -Wpedantic -fprofile-arcs -ftest-coverage -g -fprofile-arcs -ftest-coverage CMakeFiles/test.out.dir/test/main.cpp.o -o test.out  -Wl,-rpath,/home/andrew/Technopark/Cxx/cpp-hw-2-hw_processing/cmake-build-debug libdynamic_task.so /usr/local/lib/libgtest.a -lm -lpthread 
